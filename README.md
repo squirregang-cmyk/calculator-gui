@@ -17,5 +17,5 @@ You need Python 3 installed.
 
 ```bash
 pip install -r requirements.txt
-python test.py
+python calculator.py
 ```
